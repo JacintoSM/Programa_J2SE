@@ -1,0 +1,7 @@
+BALONCESTO
+jugador 1;apodo1;4;Equipo A;D;10;2;7
+jugador 2;apodo2;8;Equipo A;A;0;2;0
+jugador 3;apodo3;15;Equipo A;C;15;10;4
+jugador 4;apodo4;16;Equipo B;D;20;0;0
+jugador 5;apodo5;23;Equipo B;A;4;7;7
+jugador 6;apodo6;42;Equipo B;C;8;10;0

@@ -1,0 +1,7 @@
+BALONMANO
+jugador 1;apodo1;4;Equipo A;P;0;20
+jugador 2;apodo2;8;Equipo A;J;15;20
+jugador 3;apodo3;15;Equipo A;J;10;20
+jugador 4;apodo4;16;Equipo B;P;1;25
+jugador 5;apodo5;23;Equipo B;J;12;25
+jugador 6;apodo6;42;Equipo B;J;8;25
